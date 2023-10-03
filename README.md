@@ -9,7 +9,7 @@ This is a study project about styling in React Native.
 ![elevated card](screenshots/ElevatedCards.jpeg)
 
 ## Fancy Cards
->Cards para exibir detalhes e informações sobre conteúdos.
+>Cards to display details about some contents.
 ![fancy card](screenshots/TrendingPlaces.jpeg)
 
 ## Action Cards
